@@ -1,5 +1,5 @@
 # Predictive Analytics in Automotive Manufacturing: Testing Time Optimization
-### Project Title: Predictive Analytics in Automotive Manufacturing: Testing Time Optimization
+
 
 #### Overview:
 Welcome to the repository for the project "Predictive Analytics in Automotive Manufacturing: Testing Time Optimization." This project is dedicated to leveraging predictive modeling techniques to optimize testing time in the automotive manufacturing industry. By exploring advanced machine learning methods, our goal is to reduce testing duration while considering environmental impact, contributing to a more sustainable approach in automotive testing.
@@ -20,7 +20,7 @@ Welcome to the repository for the project "Predictive Analytics in Automotive Ma
 #### Getting Started:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/testing-time-optimization.git
+   git clone https://github.com/raghavendranhp/Predictive-Analytics-in-Automotive-Manufacturing-Testing-Time-Optimization.git
    ```
 
 2. **Install Dependencies:**
@@ -29,18 +29,15 @@ Welcome to the repository for the project "Predictive Analytics in Automotive Ma
    ```
 
 3. **Explore Notebooks:**
-   - `DataExploration.ipynb`: Comprehensive code for data exploration, visualization, and initial insights.
-   - `ModelDevelopment.ipynb`: Implementation of machine learning models, feature engineering, and the stacking ensemble.
+  - `Predictive_Model.py`: Implementation of machine learning models, feature engineering, and the stacking ensemble.
 
 #### Dataset:
 - The project utilizes a dataset (`data/train.csv` and `data/test.csv`) containing anonymized variables representing custom features in automotive testing.
 - Features include categorical variables denoted by letters and binary variables denoted by 0/1.
 - The ground truth is labeled as 'y,' representing the time (in seconds) the vehicle took to pass testing for each variable.
+- [Visit Kaggle Dataset](https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing/data)
 
-#### Project Structure:
-- `data/`: Directory to store the dataset (not included in this repository).
-- `notebooks/`: Jupyter notebooks for data exploration and model development.
-- `src/`: Source code for various modules and utility functions.
+
 
 #### Future Improvements:
 - Explore additional machine learning models for further optimization.
@@ -48,9 +45,8 @@ Welcome to the repository for the project "Predictive Analytics in Automotive Ma
 - Enhance model interpretability and explainability.
 
 #### Contributors:
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [Raghavendran S](https://www.linkedin.com/in/raghavendransundararajan/)
+  
 
 #### License:
 This project is licensed under the [MIT License](LICENSE).
