@@ -55,4 +55,3 @@ This project is licensed under the [MIT License](LICENSE).
 - The project acknowledges the use of external libraries, frameworks, or Kaggle datasets that contributed to its development.
 - Any inspiration or references are duly acknowledged and appreciated.
 
-Feel free to use or customize this README according to your project's specifics.
